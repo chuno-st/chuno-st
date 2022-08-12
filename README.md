@@ -1,7 +1,7 @@
 ![](https://github.com/chuno-st/chuno-st/blob/master/assets/HolaMundo.gif)
 
 <h2 align="center">
-Mi nombre es Bruno y soy Full Stack Developer
+Mi nombre es Bruno y soy Full Stack Developer..
 </h2>
 <h2 align="center">
 Soy de Argentina :argentina:
