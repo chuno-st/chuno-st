@@ -1,9 +1,11 @@
-![Hi, I'm Bruno](https://github.com/chuno-st/chuno-st/blob/master/assets/HolaMundo.gif)
+![](https://github.com/chuno-st/chuno-st/blob/master/assets/HolaMundo.gif)
 
-# profile in progress
-
-<h2> Hey there! I'm .... 
-
+<h2 align="center">
+Mi nombre es Bruno y soy Full Stack Developer
+</h2>
+<h2 align="center">
+Soy de Argentina :argentina:
+</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
