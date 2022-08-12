@@ -32,13 +32,11 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 [![Top Langs]()]()
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> Contacto </h3>
 
 <p align="center">
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/brunostauber" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:arq.stauber@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/brunostauber" target="_blank" rel="noopener noreferrer"><img src="" width="50" /></a>
+&nbsp; <a href="mailto:arq.stauber@gmail.com" target="_blank" rel="noopener noreferrer"><img src=""  width="50" /></a>
 </p>
 
 ⭐️ From [chuno-st](https://github.com/chuno-st)
