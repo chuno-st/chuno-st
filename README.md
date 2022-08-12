@@ -1,3 +1,5 @@
+![Hi, I'm Bruno](https://github.com/chuno-st/chuno-st/blob/master/assets/HolaMundo.gif)
+
 # profile in progress
 
 <h2> Hey there! I'm .... 
