@@ -5,27 +5,25 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 </h2>
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 PERFIL PERSONAL </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🎓 &nbsp; Full Stack Developer, Project Manager y Data Scienstist en proceso.
+- 🔭 &nbsp; Responsable, metódico, respetuoso y organizado, con un marcado perfil hacia el trabajo en equipo.
+- 🌱 &nbsp; Variada experiencia en múltiples roles profesionales.
+- 💼 &nbsp; Hoy orientado al desarrollo de nuevas habilidades relacionadas a los Servicios y Tecnologías de la Información.
+- ✍️ &nbsp; Encontré en las ciencias de la computación las herramientas para desarrollar aplicaciones que le simplifiquen el trabajo a las personas y que a la vez mejoren la productividad en los procesos.
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+<h3>🛠 TECH SKILLS</h3>
+   
+- 💻 &nbsp; HTML, CSS, Javascript
+- 🌐 &nbsp; React, Redux
+- 🛢 &nbsp; Node.js, Express
+- 🔧 &nbsp; Postgres, Sequelize
+- 🖥 &nbsp; Scrum, Trello, Slack, Git
 
 <br>
 
-<img align="center" src="" alt="...'s Github Stats">
+<img align="center" src="" alt="">
 
 </br>
 
