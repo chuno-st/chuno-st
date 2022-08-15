@@ -29,11 +29,11 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 
 <h3>:pushpin: PROYECTOS DEPLOYADOS</h3>
 
-![APP E-COMMERCE](https://frontend-pf-g1.vercel.app/)
-(Proyecto Final Grupal Bootcamp Henry - AGOSTO 2022)
+[APP E-COMMERCE](https://frontend-pf-g1.vercel.app/)
+&nbsp; (Proyecto Final Grupal Bootcamp Henry - AGOSTO 2022)
 
-![APP RAZAS CANINAS DEL MUNDO](https://pi-dogs-front-phi.vercel.app/)
-(Proyecto Individual Bootcamp Henry - JULIO 2022)
+[APP RAZAS CANINAS DEL MUNDO](https://pi-dogs-front-phi.vercel.app/)
+&nbsp; (Proyecto Individual Bootcamp Henry - JULIO 2022)
 
 <br>
 
@@ -41,10 +41,9 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 
 </br>
 
-
-<h3> Contacto </h3>
-
 <p align="center">
+<h3> CONTACTO </h3>
+
 &nbsp; <a href="https://www.linkedin.com/in/brunostauber" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/in.png' width="50" /></a>
 &nbsp; <a href="mailto:arq.stauber@gmail.com" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/mail.png'  width="50" /></a>
 </p>
