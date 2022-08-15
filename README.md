@@ -14,8 +14,8 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 - 🌱 &nbsp; Variada experiencia en múltiples roles profesionales.
 - 💼 &nbsp; Hoy orientado al desarrollo de nuevas habilidades relacionadas a los Servicios y Tecnologías de la Información.
 - ✍️ &nbsp; Encontré en las ciencias de la computación las herramientas para desarrollar aplicaciones que le simplifiquen el trabajo a las personas y que a la vez mejoren la productividad en los procesos.
-<br>
-</br>
+
+<br></br>
 
 <h3>🛠 TECH SKILLS</h3>
    
@@ -25,8 +25,7 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 - 🔧 &nbsp; Postgres, Sequelize
 - 🖥 &nbsp; Scrum, Trello, Slack, Git
 
-<br>
-</br>
+<br></br>
 
 <h3>:pushpin: PROYECTOS DEPLOYADOS</h3>
 
@@ -46,8 +45,8 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 <h3> Contacto </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/brunostauber" target="_blank" rel="noopener noreferrer"><img src="" width="50" /></a>
-&nbsp; <a href="mailto:arq.stauber@gmail.com" target="_blank" rel="noopener noreferrer"><img src=""  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/brunostauber" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/linkedin.png' width="50" /></a>
+&nbsp; <a href="mailto:arq.stauber@gmail.com" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/gmail.png'  width="50" /></a>
 </p>
 
 ⭐️ From [chuno-st](https://github.com/chuno-st)
