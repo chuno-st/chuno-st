@@ -45,8 +45,8 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 <h3> Contacto </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/brunostauber" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/linkedin.png' width="50" /></a>
-&nbsp; <a href="mailto:arq.stauber@gmail.com" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/gmail.png'  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/brunostauber" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/in.png' width="50" /></a>
+&nbsp; <a href="mailto:arq.stauber@gmail.com" target="_blank" rel="noopener noreferrer"><img src='https://github.com/chuno-st/chuno-st/blob/master/logos/mail.png'  width="50" /></a>
 </p>
 
 ⭐️ From [chuno-st](https://github.com/chuno-st)
