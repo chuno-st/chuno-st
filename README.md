@@ -4,6 +4,8 @@
 Full Stack Developer y Project Manager de Argentina :argentina:
 </h2>
 
+<br>
+</br>
 
 <h3> 👨🏻‍💻 PERFIL PERSONAL </h3>
 
@@ -12,7 +14,8 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 - 🌱 &nbsp; Variada experiencia en múltiples roles profesionales.
 - 💼 &nbsp; Hoy orientado al desarrollo de nuevas habilidades relacionadas a los Servicios y Tecnologías de la Información.
 - ✍️ &nbsp; Encontré en las ciencias de la computación las herramientas para desarrollar aplicaciones que le simplifiquen el trabajo a las personas y que a la vez mejoren la productividad en los procesos.
-
+<br>
+</br>
 
 <h3>🛠 TECH SKILLS</h3>
    
@@ -22,8 +25,10 @@ Full Stack Developer y Project Manager de Argentina :argentina:
 - 🔧 &nbsp; Postgres, Sequelize
 - 🖥 &nbsp; Scrum, Trello, Slack, Git
 
+<br>
+</br>
 
-<h3>:pushpin: PROYECTOS</h3>
+<h3>:pushpin: PROYECTOS DEPLOYADOS</h3>
 
 ![APP E-COMMERCE](https://frontend-pf-g1.vercel.app/)
 (Proyecto Final Grupal Bootcamp Henry - AGOSTO 2022)
